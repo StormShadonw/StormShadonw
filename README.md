@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **luisjorgelopezhernandez@hotmail.com**
 
+- :writing_hand: Current maintainer of [google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-jorge-l%C3%B3pez-hern%C3%A1ndez-9a864a12a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin user" height="30" width="40" /></a>
