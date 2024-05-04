@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StormShadonw" alt="StormShadonw" /></a> </p>
 
-- :writing_hand: Developer and current maintainer of [google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)
+- :writing_hand: Developer and current maintainer of **[google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)**
 
 - 🔭 I’m currently working on **Flutter Projects** and some **Backend Projects**
 
