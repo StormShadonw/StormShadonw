@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StormShadonw" alt="StormShadonw" /></a> </p>
 
+- :writing_hand: Developer and current maintainer of [google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)
+
 - 🔭 I’m currently working on **Flutter Projects** and some **Backend Projects**
 
 - 👯 I’m looking to work with some **Big Projects**
@@ -14,8 +16,6 @@
 - 💬 Ask me about **Mobile App Development** and **Backend Services**
 
 - 📫 How to reach me **luisjorgelopezhernandez@hotmail.com**
-
-- :writing_hand: Current maintainer of [google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
