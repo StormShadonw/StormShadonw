@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StormShadonw" alt="StormShadonw" /></a> </p>
 
+- 🚀 CEO and Founder of **[Subastan2](https://subastan2.com/)**
+  
+- 🚀 CEO and Founder of **[Tu Psicólogo AI](https://play.google.com/store/apps/details?id=com.developez.tu_spicologo_ai&hl=es_DO)**
+
+- :writing_hand: Developer and maintainer of **[flutter_windows_installer](https://github.com/StormShadonw/flutter_windows_installer)**
+  
 - :writing_hand: Developer and current maintainer of **[google_places_for_flutter_3](https://pub.dev/packages/google_places_for_flutter_3)**
 
 - 🔭 I’m currently working on **Flutter Projects** and some **Backend Projects**
